@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-titanv3-dev-192936-authRole",
+      "UnauthRoleArn": "arn:aws:iam::531566089401:role/amplify-titanv3-dev-192936-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::531566089401:role/amplify-titanv3-dev-192936-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-titanv3-dev-192936-deployment",
+      "UnauthRoleName": "amplify-titanv3-dev-192936-unauthRole",
+      "StackName": "amplify-titanv3-dev-192936",
+      "StackId": "arn:aws:cloudformation:us-east-1:531566089401:stack/amplify-titanv3-dev-192936/e8172a00-d01b-11ed-a489-0efd83613a5d",
+      "AmplifyAppId": "d39dye1rmywtco"
+    }
+  }
+}
